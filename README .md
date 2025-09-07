@@ -14,7 +14,8 @@ The system consists of:
 - **ECR**: Stores Docker images for frontend and backend services.
 - **EKS Cluster**: Manages deployments and services.
 
-![Architecture Diagram](architecture.png)
+<img width="912" height="603" alt="image" src="https://github.com/user-attachments/assets/adf5010a-e259-4fce-8dfe-a1464b9c1e67" />
+
 
 ---
 
